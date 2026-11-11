@@ -1,0 +1,23 @@
+PERSONAL MINI-TOOLKIT
+
+Project Name: Personal Mini-Toolkit
+
+TOOL 1: Simple Calculator
+Allows users to add, subtract, multiply and divide numbers.
+Concepts: Input, output, conditionals.
+
+TOOL 2: To-Do List
+Allows users to add and view their daily tasks.
+Concepts: Lists, loops and conditionals.
+
+TOOL 3: Number Guessing Game
+Allows users to guess a random number between 1 and 10.
+Concepts: Loops, conditionals and random numbers.
+
+MENU:
+Welcome to My Personal Mini-Toolkit
+
+1. Simple Calculator
+2. To-Do List
+3. Number Guessing Game
+4. Quit
